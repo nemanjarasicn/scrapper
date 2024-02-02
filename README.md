@@ -20,7 +20,7 @@ Follow the bellow steps to install the application:
 
 1. download the repository
 
-   `git clone https://github.com/nemanjarasicn/nymbl-task.git`
+   `git clone https://github.com/nemanjarasicn/scrapper.git`
 
 2. replace all template files with actual files
 
